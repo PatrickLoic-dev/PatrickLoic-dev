@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/kewellloic" target="blank"><img src="https://img.shields.io/twitter/follow/kewellloic?logo=twitter&style=for-the-badge" alt="kewellloic" /></a> </p>
 
-- 🔭 I’m currently working on **An AI assistant for desktop**
+- 🔭 I’m currently working on **A mobile payement solution for Africa✨**
 
-- 🌱 I’m currently learning **Machine learning and Deep learning**
+- 🌱 I’m currently learning **Machine learning and Deep learning🤖**
 
-- 💬 Ask me about **react native, flutter and Node js**
+- 💬 Ask me about **react native, react js and Node js**
 
 - 📫 How to reach me **kangueloic9@gmail.com**
 
-- ⚡ Fun fact : **I am a huge video games, anime and programming fan doubled with an immature personnality😝**
+- ⚡ Fun fact : **I am a huge video games, anime and programming fan😝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
