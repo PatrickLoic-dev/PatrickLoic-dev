@@ -91,10 +91,8 @@
 </p>
 
 
-<h3 align="left">My Stats🚀</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickloic-dev&show_icons=true&locale=en&layout=compact" alt="patrickloic-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickloic-dev&show_icons=true&locale=en" alt="patrickloic-dev" /></p>
-
-<h3 align="left">My Streaks💥</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrickloic-dev&" alt="patrickloic-dev" /></p>
+<h3 align="left">My Stats🚀 &  Streaks💥</h3>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickloic-dev&" alt="patrickloic-dev" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickloic-dev&show_icons=true&locale=en&layout=compact" alt="patrickloic-dev" />
+</p>
