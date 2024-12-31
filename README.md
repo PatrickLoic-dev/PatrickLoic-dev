@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep learning🤖**
 
-- 👨‍💻 All of my projects are available at [https://patrickloic.me](https://patrickloic.me)
+- 👨‍💻 All of my projects are available at [https://patrickloic.me](https://patrickloic.me) (Under construction)
 
 - 💬 Ask me about **react native, Angular, Node JS and Nest JS**
 
