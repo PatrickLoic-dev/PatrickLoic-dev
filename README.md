@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **my personnal growth as a developer.**
 
-- 👨‍💻 All of my projects are available at [https://kangueloic.me/projects](My portfolio projects page)
+- 👨‍💻 All of my projects are available at [My portfolio projects page](https://kangueloic.me/projects)
 
 - 💬 Ask me about **React Native, Next JS, Angular, Node JS and Nest JS**
 
 - 📫 How to reach me **kangueloic9@gmail.com | kangue.patrick21@gmail.com**
 
-- 📄 Know about my experiences [https://kangueloic.me/about](Here)
+- 📄 Know about my experiences [Here](https://kangueloic.me/about)
 
 - ⚡ Fun fact **I am a huge geek/otaku**
 
