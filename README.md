@@ -1,24 +1,22 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Kangue Loic</h1>
-<h3 align="center">A passionate frontend and Artficial intelligence developper, from Douala, that likes to laugh, smile and play🤣</h3>
+<h3 align="center">A passionate FullStack developper, from Douala, that likes to learn, grow and socialize</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickloic-dev&label=Profile%20views&color=0e75b6&style=flat" alt="patrickloic-dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kewellloic" target="blank"><img src="https://img.shields.io/twitter/follow/kewellloic?logo=twitter&style=for-the-badge" alt="kewellloic" /></a> </p>
 
-- 🔭 I’m currently working on **a mobile payement solution for Africa✨**
+- 🔭 I’m currently working on **my personnal growth as a developer.**
 
-- 🌱 I’m currently learning **Machine learning and Deep learning🤖**
+- 👨‍💻 All of my projects are available at [https://kangueloic.me/projects](My portfolio projects page)
 
-- 👨‍💻 All of my projects are available at [https://patrickloic.me](https://patrickloic.me) (Under construction)
+- 💬 Ask me about **React Native, Next JS, Angular, Node JS and Nest JS**
 
-- 💬 Ask me about **react native, Angular, Node JS and Nest JS**
+- 📫 How to reach me **kangueloic9@gmail.com | kangue.patrick21@gmail.com**
 
-- 📫 How to reach me **kangueloic9@gmail.com | lilkewell@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.at/CgEd0](https://shorturl.at/CgEd0)
+- 📄 Know about my experiences [https://kangueloic.me/about](Here)
 
 - ⚡ Fun fact **I am a huge geek/otaku**
 
@@ -62,11 +60,6 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 
-<h4>AI/ML</h4>
-<p align="left"> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
-
 <h4>Database</h4>
 <p align="left"> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
@@ -88,11 +81,4 @@
 <h4>Other</h4>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
-
-
-<h3 align="left">My Stats🚀 &  Streaks💥</h3>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickloic-dev&" alt="patrickloic-dev" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickloic-dev&show_icons=true&locale=en&layout=compact" alt="patrickloic-dev" />
 </p>
